@@ -55,7 +55,11 @@ Traders were segmented based on:
 Segment performance was evaluated across sentiment regimes.
 
 ---
+## Data Availability
 
+The original trade-level dataset (`history.csv`) is not included in this repository due to size constraints.
+
+All derived analytical tables used in the dashboard are available under `data/derived/` to ensure reproducibility of results.
 ## Key Findings
 
 - **Fear regimes generate the highest profitability and volatility.**
