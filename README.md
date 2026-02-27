@@ -70,27 +70,3 @@ Performance is both regime-dependent and heterogeneous across trader profiles.
    High-volatility traders can capture greater upside in Fear environments, while low-volatility traders exhibit muted regime sensitivity.
 
 ---
-
-## Project Structuremarket-sentiment-trader-analysis/
-│
-├── dashboard.py              # Streamlit app
-├── analysis.ipynb            # Exploratory & metric creation notebook
-├── requirements.txt
-├── README.md
-├──Strategic_Insights.md
-│
-├── data/
-│   ├── raw/                  # Original untouched datasets
-│   │   └── fear_greed_index.csv
-│   │
-│   └── derived/              # Processed tables used in dashboard
-│       ├── performance_by_sentiment.csv
-│       ├── behavior_by_sentiment.csv
-│       ├── activity_segmentation.csv
-│       └── volatility_segmentation.csv
-│
-├── charts/                  # Static charts 
-│   ├── performance.png
-│   ├── activity.png
-│   ├── trade_size.png
-│   └── segmentation.png
