@@ -1,5 +1,11 @@
 # Market Sentiment & Trader Behavior Analysis
 
+## Live Dashboard
+
+Access the interactive Streamlit dashboard here:
+
+👉 [https://your-app-name.streamlit.app](https://market-sentiment-trader-analysis-agvx9iowefj8weinr5qw5y.streamlit.app/)
+
 ## Overview
 
 This project analyzes how market sentiment regimes (Fear, Greed, Extreme Greed, Neutral) influence trader performance and behavior.
